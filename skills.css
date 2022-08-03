@@ -1,0 +1,47 @@
+.devskills {
+    width: 100%;
+    margin: 50px;
+    display: table;
+    box-sizing: border-box;
+}
+
+b {
+    font-size: x-large;
+}
+
+b:hover {
+    color: rgb(146, 68, 15);
+}
+
+.row {
+    margin: 2px 20px;
+
+}
+
+.column {
+    background: rgb(85, 21, 21);
+    display: table-cell;
+    padding: 20px;
+    padding-top: 2px;
+    text-align: center;
+    color: #fff;
+    vertical-align: middle;
+
+}
+
+.row:nth-child(1) .column:nth-child(1) {
+    background-color: rgb(219, 139, 40);
+
+}
+
+.row:nth-child(1) .column:nth-child(2) {
+    background-color: rgb(9, 79, 79);
+}
+
+.row:nth-child(1) .column:nth-child(3) {
+    background-color: rgb(106, 225, 176);
+}
+
+.row:nth-child(1) .column:nth-child(4) {
+    background-color: rgb(164, 163, 82);
+}

@@ -4,6 +4,30 @@ body {
     background-image: url("../images/pattern-background-mobile.svg");
 }
 
+.logo{
+    box-sizing: border-box;
+    border-radius: 10px;
+    width: 80px;
+    height: 50px;
+    display: flex;
+    float: left;
+    background-color: yellow;
+}
+
+.logo-inner{
+    margin:5px 0px 10px 20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: x-large;
+    font-weight: bolder;
+    color: rgb(105, 28, 6);
+    width: 70px;
+    height: 40px;
+    background-color: azure;
+    box-sizing: border-box;
+    border-radius: 10px 10px 0px;
+
+}
+
 
 .sidebar nav {
     text-align: right;
@@ -26,7 +50,6 @@ a{
  a:hover {
     color: rgb(173, 78, 19);
 }
-
 
 .infocontainer {
     display: flex;
@@ -61,11 +84,12 @@ a{
 }
 
 .button button {
-    padding: 5px;
-    font: bold;
-    font-size: medium;
-    margin: 10px;
+    padding: 10px;
+    font: bolder;
+    font-size: large;
+    margin: 10px 25px;
     border-radius: 10px;
+    border:3px solid white;
     background-color: rgb(40, 115, 235);
 }
 

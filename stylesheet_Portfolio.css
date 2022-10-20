@@ -44,10 +44,12 @@ body {
 }
 
 a{
+    text-decoration: none;
     color: white;
 }
 
  a:hover {
+     
     color: rgb(173, 78, 19);
 }
 
@@ -94,7 +96,7 @@ a{
 }
 
 .button button:hover {
-    color: rgb(173, 78, 19);
+    background-color: green;
 }
 
 .devimg {

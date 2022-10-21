@@ -1,47 +1,42 @@
-.devskills {
-    width: 100%;
-    margin: 50px;
-    display: table;
-    box-sizing: border-box;
+.devskills{
+    width: 80%;
+    margin: auto;
+    padding: 50px;
+}
+.row1{
+    width: 45%;
+    height: 350px;
+    float: left;
+    margin: 23px;
 }
 
-b {
-    font-size: x-large;
+.row2{
+    width: 45%;
+    height: 350px;
+    float: right;
+    margin: 23px;
 }
 
-b:hover {
-    color: rgb(146, 68, 15);
+.row3{
+    width: 45%;
+    height: 350px;
+    float: left;
+    margin: 23px;
 }
 
-.row {
-    margin: 2px 20px;
-
+.row4{
+    width: 45%;
+    height: 350px;
+    float: right;
+    margin: 23px;
 }
 
-.column {
-    background: rgb(85, 21, 21);
-    display: table-cell;
-    padding: 20px;
-    padding-top: 2px;
-    text-align: center;
-    color: #fff;
-    vertical-align: middle;
-
+b{
+    font-size: 30px;
 }
-
-.row:nth-child(1) .column:nth-child(1) {
-    background-color: rgb(219, 139, 40);
-
+b:hover{
+ color: rgb(173, 78, 19);;
 }
-
-.row:nth-child(1) .column:nth-child(2) {
-    background-color: rgb(9, 79, 79);
-}
-
-.row:nth-child(1) .column:nth-child(3) {
-    background-color: rgb(106, 225, 176);
-}
-
-.row:nth-child(1) .column:nth-child(4) {
-    background-color: rgb(164, 163, 82);
+p{
+    font-size: 16px;
 }

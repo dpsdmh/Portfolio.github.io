@@ -1,8 +1,30 @@
-.container1{
-    width:75%;
-    margin: auto;
-    padding-top: 130px;
-    font-size: 25px;
-    align-items: center;
-    
+
+
+.main{
+    width: 70%;
+    padding-right: 30px;
+    display: flex;
+    justify-content: space-between;
+    color: white;
 }
+
+.devimg1 {
+
+    margin: 20px;
+    margin-top: 90px;
+    width: 20px;
+    height: 30px;
+}
+    img{
+        width: 200px;
+        float: left;
+        margin: 20px;
+    }
+.devinfo1 {  
+    width: 70%;
+    margin: auto;
+    margin-top: 120px;
+    margin-right: 20px;
+    font-size: 22px;
+}
+

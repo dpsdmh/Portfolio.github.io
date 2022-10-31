@@ -1,8 +1,7 @@
 
 
 .main{
-    width: 70%;
-    padding-right: 30px;
+    width: 60%;
     display: flex;
     justify-content: space-between;
     color: white;
@@ -14,6 +13,7 @@
     margin-top: 90px;
     width: 20px;
     height: 30px;
+    
 }
     img{
         width: 300px;
@@ -22,10 +22,11 @@
         border-radius: 20px;
     }
 .devinfo1 {  
-    width: 70%;
+    width: 80%;
     margin: auto;
     margin-top: 180px;
     margin-right: 20px;
     font-size: 22px;
+    
 }
 

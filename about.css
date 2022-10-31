@@ -16,7 +16,7 @@
     height: 30px;
 }
     img{
-        width: 200px;
+        width: 300px;
         float: left;
         margin: 20px;
         border-radius: 20px;
@@ -24,7 +24,7 @@
 .devinfo1 {  
     width: 70%;
     margin: auto;
-    margin-top: 120px;
+    margin-top: 180px;
     margin-right: 20px;
     font-size: 22px;
 }
